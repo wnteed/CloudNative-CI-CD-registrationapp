@@ -1,5 +1,5 @@
 # 🚀 Projet DevOps : Déploiement Automatisé d'une Application d'Inscription
-![Jenkins Workflow](./images/devops-pipeline.png)
+![Jenkins Workflow](./images/devops-pipeline.jpg)
 Bienvenue dans ce projet DevOps complet qui démontre la mise en place d'une chaîne CI/CD automatisée pour une application d'inscription, en utilisant des outils modernes et des meilleures pratiques de l'industrie.
 
 ## 🧩 Aperçu du Projet
